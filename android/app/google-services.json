@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "841243830625",
+    "project_id": "testproject-47c40",
+    "storage_bucket": "testproject-47c40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841243830625:android:82ad17c34b83e6b08ffd20",
+        "android_client_info": {
+          "package_name": "com.zatackcoder.otp_login_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841243830625-g02i5b1hdevf5rre9c9gsk030v6erb19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWgbpE13W39GCFnUogUjfxKAGbZjZA3Bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841243830625-g02i5b1hdevf5rre9c9gsk030v6erb19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
